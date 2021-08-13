@@ -1,3 +1,8 @@
+#Important note!!
+Please open the index.js(in the src folder) using a compatible code editor to get the code working.(its the react app root directory) 
+
+
+# Information regarding the script commands and configurations
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
