@@ -1,4 +1,4 @@
-#Important note!!
+# Important note!!
 Please open the index.js(in the src folder) using a compatible code editor to get the code working.(its the react app root directory) 
 
 
